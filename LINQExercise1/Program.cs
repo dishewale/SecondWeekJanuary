@@ -20,6 +20,7 @@ namespace SecondWeekJanuary
             }
 
             Console.WriteLine(TotalLength);
+            Console.WriteLine("new line");
         }
     }
 }
